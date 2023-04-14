@@ -1,8 +1,9 @@
 ---
-title: "go-தமிழ் — Tamil transliteration tool in golang for fun & learning"
+title: "go-தமிழ்"
 datePublished: Mon Apr 12 2021 03:55:39 GMT+0000 (Coordinated Universal Time)
 cuid: ckzeyvups0a6z96s10gcag1bi
 slug: go-e0aea4e0aeaee0aebfe0aeb4e0af8d-tamil-transliteration-tool-in-golang-for-fun-learning-a59eb87d9b7f
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681452161479/46a9c6e8-1217-48b6-86ed-53d3bd0a13a3.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681452009097/4fedee09-e985-4281-9a73-08536c7d3dfc.png
 tags: go
 
