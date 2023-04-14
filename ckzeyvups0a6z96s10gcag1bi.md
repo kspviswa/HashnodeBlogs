@@ -3,13 +3,12 @@ title: "go-தமிழ் — Tamil transliteration tool in golang for fun 
 datePublished: Mon Apr 12 2021 03:55:39 GMT+0000 (Coordinated Universal Time)
 cuid: ckzeyvups0a6z96s10gcag1bi
 slug: go-e0aea4e0aeaee0aebfe0aeb4e0af8d-tamil-transliteration-tool-in-golang-for-fun-learning-a59eb87d9b7f
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681452009097/4fedee09-e985-4281-9a73-08536c7d3dfc.png
 tags: go
 
 ---
 
-Having got my feet wet with *golang* by implementing `[ls](http://kspviswa.github.io/starting-out-as-a-gopher.html)` [equivalent command](http://kspviswa.github.io/starting-out-as-a-gopher.html) in `golang` , It's now time to explore some depths.
-
-In this post, I’m gonna talk about my new project, [**go-தமிழ் — Tamil transliteration tool in golang for fun & learning**](https://github.com/kspviswa/gothamizh) .
+In this post, I’m gonna talk about my new project, **go-தமிழ் — Tamil transliteration tool in golang for fun & learning** .
 
 தமிழ் (Thamizh not Tamil) is my mother tongue. It is absolutely fantastic to see thamizh letters in internet. Due to recent developments in typographic / indic technologies, it is now very easy to type & view in native languages.
 
