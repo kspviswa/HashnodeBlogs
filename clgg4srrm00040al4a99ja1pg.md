@@ -5,6 +5,7 @@ seoDescription: "Nuances of different types of `this` in Javascript"
 datePublished: Fri Apr 14 2023 05:51:23 GMT+0000 (Coordinated Universal Time)
 cuid: clgg4srrm00040al4a99ja1pg
 slug: nuances-of-different-types-of-this-in-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/geM5lzDj4Iw/upload/f6ce00f41b55d262f12c9b9b66ba5f36.jpeg
 tags: javascript
 
 ---
